@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LkoBus</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sourcePlaces">
+        <item>hazratganj</item>
+        <item>Sikandarbag</item>
+        <item>Golmarket</item>
+        <item>Khurram nagar</item>
+        <item>Polytechnic</item>
+        <item>Rajajipuram</item>
+        <item>Charbagh</item>
+        <item>Alambagh</item>
+        <item>kamta</item>
+        <item>Barabanki</item>
+    </string-array>
+    <string-array name="destinationPlaces">
+        <item>hazratganj</item>
+        <item>Sikandarbag</item>
+        <item>Golmarket</item>
+        <item>Khurram nagar</item>
+        <item>Polytechnic</item>
+        <item>Rajajipuram</item>
+        <item>Charbagh</item>
+        <item>Alambagh</item>
+        <item>kamta</item>
+        <item>Barabanki</item>
+    </string-array>
+</resources>
+
+
