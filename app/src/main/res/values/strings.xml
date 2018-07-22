@@ -1,5 +1,11 @@
 <resources>
+
     <string name="app_name">LkoBus</string>
+    <string name="title_activity_route_search_second">Route Search</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">Android Studio</string>
@@ -30,6 +36,9 @@
         <item>kamta</item>
         <item>Barabanki</item>
     </string-array>
+    <string name="title_activity_route_map">Map</string>
+    <string name="title_activity_trace_bus_map">Map</string>
+    <string name="title_activity_route_search_map">Map</string>
 </resources>
 
 
